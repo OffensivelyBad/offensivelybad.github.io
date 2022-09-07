@@ -1,6 +1,6 @@
 # NShape Sets (iOS and Android) / NShape Sets Go (WatchOS)
 
-Contact Us
+Support & Contact Us
 
 If you have any questions or comments please contact us and we'll respond as soon as possible:
 
